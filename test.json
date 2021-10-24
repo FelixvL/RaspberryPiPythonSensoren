@@ -1,0 +1,42 @@
+[
+    {
+        "gas": 18560,
+        "id": 1635070300,
+        "licht": 27840,
+        "locatie": "Eindhoven",
+        "regen": 65216,
+        "tijdstip": "24/10/2021 11:11"
+    },
+    {
+        "gas": 18560,
+        "id": 1635070302,
+        "licht": 27840,
+        "locatie": "Eindhoven",
+        "regen": 65280,
+        "tijdstip": "24/10/2021 11:11"
+    },
+    {
+        "gas": 18560,
+        "id": 1635070304,
+        "licht": 27904,
+        "locatie": "Eindhoven",
+        "regen": 65216,
+        "tijdstip": "24/10/2021 11:11"
+    },
+    {
+        "gas": 18560,
+        "id": 1635070306,
+        "licht": 27712,
+        "locatie": "Eindhoven",
+        "regen": 65216,
+        "tijdstip": "24/10/2021 11:11"
+    },
+    {
+        "gas": 18560,
+        "id": 1635070308,
+        "licht": 27712,
+        "locatie": "Eindhoven",
+        "regen": 65280,
+        "tijdstip": "24/10/2021 11:11"
+    }
+]
